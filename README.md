@@ -2,7 +2,7 @@ hello
 landing page is webpage which i represented my ways of achieving happiness.
 I created this page using HTML and CSS.
 
-here is the code :
+here is the preview of page :
 
 <!DOCTYPE html>
 <html lang="en">
